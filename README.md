@@ -10,6 +10,7 @@ A command-line application that allows users to create and interact with differe
 - [Usage](#usage)
   - [Creating a Vehicle](#creating-a-vehicle)
   - [Performing Actions](#performing-actions)
+- [Video Walkthrough](#video-walkthrough)
 - [Technologies Used](#technologies-used)
 - [License](#license)
 
@@ -36,8 +37,14 @@ The Vehicle Builder is an interactive CLI application that demonstrates object-o
 ## Installation
 
 1. Clone the repository
-2. Install dependencies
-3. Build and run the application: npm start
+2. Install dependencies:
+   ```
+   npm install
+   ```
+3. Build and run the application:
+   ```
+   npm start
+   ```
 
 ## Usage
 
@@ -64,6 +71,10 @@ After creating or selecting a vehicle, you can perform various actions:
 - Reverse
 - Tow a vehicle (Trucks only)
 - Do a wheelie (Motorbikes only)
+
+## Video Walkthrough
+
+[Click here to watch a video demonstration of the Vehicle Builder application](https://www.dropbox.com/scl/fi/1y2qklxy48axb9he9gudg/vehicle-builder-video-walkthrough.mov?rlkey=fyx8pmg2n954j6rbu1eby7hg8&st=7tt8l1yl&dl=0)
 
 ## Technologies Used
 
